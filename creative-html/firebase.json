@@ -1,7 +1,6 @@
 {
   "hosting": [{
     "target": "csprep-nepal",
-    "public": "creative-html",
     "ignore": [
       "firebase.json",
       "**/.*",
